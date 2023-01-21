@@ -4,15 +4,21 @@ Here we simulate you tube with small scale approach just to show the main page t
 Also we have the search  that works really fine.
 Not that only but also we have the page that allow you to see the video with some details like likes and no. view.
 
+
+To get started developing right away:
+
+- install all project dependencies with `npm install`
+- start the development server with `npm start`
+
+
 This is only achieved with the techlogies of:
-1-React (useState,useEffect,useRef):
-2-Pure Css.
-3-JSX of HTML.
-4-Backend preArranged Youtube fake API.
+1-React Logic (useState,useEffect,useRef):
+2-Material UI Css.
+3-React JSX of HTML.
+4-Axios for Get Request.
+5-RapidAPI - youtube v3.
 
-
-
-
+sample of the one page web application:
 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/97471166/204132255-a083c411-2bef-4817-a675-df015ec0299e.png">
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/97471166/204132263-658ce7cc-0b56-4091-8dad-31a4d0779464.png">
