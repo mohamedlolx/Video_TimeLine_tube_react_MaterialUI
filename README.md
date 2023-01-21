@@ -12,11 +12,11 @@ To get started developing right away:
 
 
 This is only achieved with the techlogies of:
-1-React Logic (useState,useEffect,useRef):
-2-Material UI Css.
-3-React JSX of HTML.
-4-Axios for Get Request.
-5-RapidAPI - youtube v3.
+1- React Logic (useState,useEffect,useRef):
+2- Material UI Css.
+3- React JSX of HTML.
+4- Axios for Get Request.
+5- RapidAPI - youtube v3.
 
 sample of the one page web application:
 
